@@ -3,7 +3,8 @@ import org.hamcrest.CoreMatchers;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class MoodAnalyserTest {
+public class MoodAnalyserTest 
+{
 
 	@Test
 	public void givenMessage_WhenSad_ShouldReturnSad() throws Exception {
